@@ -1,2 +1,2 @@
-/*SHOW ALL DATABASE */
+-- lists all databases
 SHOW DATABASES;
